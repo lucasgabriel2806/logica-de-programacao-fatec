@@ -2,6 +2,8 @@
 
 const read = require('readline-sync');
 
+// Variáveis
+
 let i, altura, media, total;
 
 total = 0;
